@@ -1,0 +1,22 @@
+{
+  "name": "touchpadtracker-endpoints",
+  "version": "1.0.0",
+  "description": "End points for the touchpadtracker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brianmanden/touchpadtracker-endpoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brianmanden/touchpadtracker-endpoints/issues"
+  },
+  "homepage": "https://github.com/Brianmanden/touchpadtracker-endpoints#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
