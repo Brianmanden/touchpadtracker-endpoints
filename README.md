@@ -1,2 +1,2 @@
 # touchpadtracker-endpoints
-Endpoints for the touchpadtracker project
+End points for the touchpadtracker project
