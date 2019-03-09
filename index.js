@@ -9,6 +9,8 @@ const commandsList = {
 
 app.get('/api/endpoints', (req, res) => res.send(commandsList));
 
+app.get('/', (req, res) => res.send('hello world ?'));
+
 app.listen(PORT, function () {
     console.log('Server ready');
     console.log('Connect at http://localhost:' + PORT);
